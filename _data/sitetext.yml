@@ -71,7 +71,14 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: | 
+      Como propietarios de ocho gatos, conseguir una buena arena de gato siempre ha sido un problema. De las arenas disponibles en el mercado, la mayoria pierde su capacidad de aglutamiento al poco tiempo de uso y empiezan a apestar, haciendo la convivencia y la labor de limpieza una experiencia tediosa en el extremo y muy poco higienica. 
+      Como consumidor, ante esta situacion, solo te quedan dos opciones: o gastas mas comprando mas arena para remplazarla, o duermes y vives con olor a excremento y orine hasta que no lo soportes mas y explotes. Es decir, solo hay una opcion: comprar mas arena mala. Es una situacion bastante frustante y con el tiempo se pone peor. 
+      Todo tipo de emociones negativas empiezan a surgir y, finalmente, todo desemboca contra el distribuidor. Como es posible que no puedan ofrecer mejores alternativas? Que les pasa? Yo no tengo por que financiar mi propio sufrimiento!
+
+      La arena de gato ideal debe aglutinar, absorber olores, generar muy poco polvo y, sobre todo, durar. Tiene que ser, ademas, lo suficientemente economica. La arena "Just Cats" lo logra todo. Nosotros la hemos encontrado a raiz de nuestra frustracion con las opciones disponibles en el mercado. Empezamos a probar varias opciones de diversos proveedores del extranjero, 
+      evaluando los cinco parametros mencionados (algutinacion, absorsion de olores, duracion, nivel de polvo y precio), y hemos aterrizado en la opcion que estamos ofreciendo. Es aproximadamente un 30% superior en todos los parametros mencionados a las marcas establecidas. No es sopresa que ahora es la arena que utilizamos y estamos muy satisfechos con los resultados. 
+      Tenemos la certeza que otros consumidores compartiran nuestros mismos sentimientos!
     section: about
 
   clients:
