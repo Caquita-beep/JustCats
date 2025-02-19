@@ -1,7 +1,7 @@
 ---
 title: Project Arena
 subtitle: Your Awesome Cat Litter.
-image: assets/img/portfolio/head.png
+image: assets/img/portfolio/funda.jpg
 alt: Bag of Cat Litter
 
 caption:
