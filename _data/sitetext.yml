@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to our Store!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -98,9 +98,9 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "Chapeta"
         role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/chapeta.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -108,9 +108,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Kuki"
         role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/kuki.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -118,9 +118,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Chibi Chibi"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/chibi.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
