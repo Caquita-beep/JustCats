@@ -61,12 +61,12 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Chapi y Chibi Chibi"
         year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "hello sir."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Kuki y Taco"
         year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "My name is Taco"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
