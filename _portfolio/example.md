@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Example
   subtitle: subtitle
-  thumbnail: assets/img/portfolio/book.jpg
+  thumbnail: assets/img/portfolio/book.webp
   
 #what displays when the item is clicked:
 title: Separador de paginas
 subtitle:
-image: assets/img/portfolio/book.jpg
+image: assets/img/portfolio/book.webp
 alt: image alt text
 
 ---
