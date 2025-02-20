@@ -6,13 +6,13 @@ alt: Bag of Cat Litter
 
 caption:
   title: Arena Sanitaria
-  subtitle: Illustration
+  subtitle: Arenas
   thumbnail: assets/img/portfolio/head.png
 ---
 
 Hello sir.
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: February 2025
+- Client: People
+- Category: Arenas
