@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Store!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Bienvenidos a nuestra tienda!
+    text: Un gusto!
+    button: Nuestros Productos
     buttonlink: "#portfolio"
 
   services:
@@ -44,29 +44,29 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings: Kibi"
+      - title: "La primera: Kibi"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "A Kibi la hemos recibido justo antes de empezar la pandemia. Tenia apenas dos meses. La hemos recibido de una familia que no podia mantenerla. Tenia parasitos y garrapatas pero nada exagerado, lo cual pudimos resolver rapido."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Yuca"
         year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Al siguiente mes de tener a Kibi, hemos pensado traer otro gato mas, con la idea de que le haga compania a Kibi. Esa fue Yuca. La hemos recibido de una familia en un sector terrible. Yuca tenia tres meses, totalmente demacrada, llena de parasitos y garrapatas por todos lados. Totalmente destruida."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Pizz y Simba"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Por alguna razon hemos querido tener dos mas adicionales y entonces fuimos a un refugio que hay en el centro civico. Ahi encontramos a Pizza y Simba. Ambos esqueletos, garrapatas y parasitos, sin embargo no tan destruidos como Yuca. Con estos dos, hemos decidido que son suficiente gatos los que tenemos"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Chapi y Chibi Chibi"
         year: "2009-2011"
-        desc: "hello sir."
+        desc: "A los pocos meses despues, conversando con una vendedora de plasticos, me cuenta que esta buscando hogar para dos gatitos de 2 meses. Me manda fotos y decidimos recibir uno. Sin embargo, al dia siguiente fuimos a recibir al otro. Y esta vez no juramos que no ibamos a recibir mas gatos."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Kuki y Taco"
         year: "2009-2011"
-        desc: "My name is Taco"
+        desc: "Pero algo paso un dia q estuve en Duran visitando un taller de metalmecanica. Al salir, veo que alguien habia dejado una funda de rafia a la entrada del taller, justo en el medio. La he recogido y adentro habian dos gatitos de aproximadamente de 1 mes. Yo estaba solo con el dueno del taller, la calle vacia, y no sabia que hacer. He decidido llevarmelos a la casa."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -105,7 +105,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "TESTIMONIOS"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
