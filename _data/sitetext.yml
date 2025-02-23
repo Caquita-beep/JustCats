@@ -120,9 +120,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Kuki"
+      - name: "Pizza"
         role: "Lead Marketer"
-        image: assets/img/team/kuki.jpg
+        image: assets/img/team/pizza.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -132,7 +132,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Chibi Chibi"
         role: "Lead Developer"
-        image: assets/img/team/chibi.jpg
+        image: assets/img/team/chibi.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
