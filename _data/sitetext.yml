@@ -47,12 +47,12 @@ en: &DEFAULT_EN
       - title: "La primera: Kibi"
         year: "2009-2011"
         desc: "A Kibi la hemos recibido justo antes de empezar la pandemia. Tenia apenas dos meses. La hemos recibido de una familia que no podia mantenerla. Tenia parasitos y garrapatas pero nada exagerado, lo cual pudimos resolver rapido."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/kipi.png
         alt:
       - title: "Yuca"
         year: "March 2011"
         desc: "Al siguiente mes de tener a Kibi, hemos pensado traer otro gato mas, con la idea de que le haga compania a Kibi. Esa fue Yuca. La hemos recibido de una familia en un sector terrible. Yuca tenia tres meses, totalmente demacrada, llena de parasitos y garrapatas por todos lados. Totalmente destruida."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/yuca.jpg
         alt:
       - title: "Pizz y Simba"
         year: "2019"
