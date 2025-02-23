@@ -10,9 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/head.png
 ---
 
-Hello sir.
+Bolas de 1-4mm de bentonita. Sin olor, minimo polvo, rapido aglutinamento, y control superior de odores.
+
 {:.list-inline}
 
-- Date: February 2025
-- Client: People
-- Category: Arenas
