@@ -38,34 +38,34 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Linea de Tiempo"
+    text: "De uno a ocho"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "La primera: Kibi"
-        year: "2009-2011"
+        year: "2019"
         desc: "A Kibi la hemos recibido justo antes de empezar la pandemia. Tenia apenas dos meses. La hemos recibido de una familia que no podia mantenerla. Tenia parasitos y garrapatas pero nada exagerado, lo cual pudimos resolver rapido."
         image: assets/img/timeline/kipi.png
         alt:
       - title: "Yuca"
-        year: "March 2011"
+        year: "Marzo 2020"
         desc: "Al siguiente mes de tener a Kibi, hemos pensado traer otro gato mas, con la idea de que le haga compania a Kibi. Esa fue Yuca. La hemos recibido de una familia en un sector terrible. Yuca tenia tres meses, totalmente demacrada, llena de parasitos y garrapatas por todos lados. Totalmente destruida."
         image: assets/img/timeline/yuca.jpg
         alt:
       - title: "Pizz y Simba"
-        year: "2019"
+        year: "Mayo 2020"
         desc: "Por alguna razon hemos querido tener dos mas adicionales y entonces fuimos a un refugio que hay en el centro civico. Ahi encontramos a Pizza y Simba. Ambos esqueletos, garrapatas y parasitos, sin embargo no tan destruidos como Yuca. Con estos dos, hemos decidido que son suficiente gatos los que tenemos"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Chapi y Chibi Chibi"
-        year: "2009-2011"
+        year: "Septiembre 2020"
         desc: "A los pocos meses despues, conversando con una vendedora de plasticos, me cuenta que esta buscando hogar para dos gatitos de 2 meses. Me manda fotos y decidimos recibir uno. Sin embargo, al dia siguiente fuimos a recibir al otro. Y esta vez no juramos que no ibamos a recibir mas gatos."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Kuki y Taco"
-        year: "2009-2011"
+        year: "Marzo 2021"
         desc: "Pero algo paso un dia q estuve en Duran visitando un taller de metalmecanica. Al salir, veo que alguien habia dejado una funda de rafia a la entrada del taller, justo en el medio. La he recogido y adentro habian dos gatitos de aproximadamente de 1 mes. Yo estaba solo con el dueno del taller, la calle vacia, y no sabia que hacer. He decidido llevarmelos a la casa."
         image: assets/img/timeline/4.jpg
         alt:
