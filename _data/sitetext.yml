@@ -132,7 +132,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Chibi Chibi"
         role: "Lead Developer"
-        image: assets/img/team/chibi.png
+        image: assets/img/team/Chibi.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
