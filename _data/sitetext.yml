@@ -75,9 +75,9 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
+    text: "nuestra historia"
     body: | 
-      Como propietarios de ocho gatos, conseguir una buena arena de gato siempre ha sido un problema. De las arenas disponibles en el mercado, la mayoria pierde su capacidad de aglutamiento al poco tiempo de uso y empiezan a apestar, haciendo la convivencia y la labor de limpieza una experiencia tediosa en el extremo y muy poco higienica. 
+      Como padres de ocho gatos, conseguir una buena arena de gato siempre ha sido un problema. De las arenas disponibles en el mercado, la mayoria pierde su capacidad de aglutamiento al poco tiempo de uso y empiezan a apestar, haciendo la convivencia y la labor de limpieza una experiencia tediosa en el extremo y muy poco higienica. 
       Como consumidor, ante esta situacion, solo te quedan dos opciones: o gastas mas comprando mas arena para remplazarla, o duermes y vives con olor a excremento y orine hasta que no lo soportes mas y explotes. Es decir, solo hay una opcion: comprar mas arena mala. Es una situacion bastante frustante y con el tiempo se pone peor. 
       Todo tipo de emociones negativas empiezan a surgir y, finalmente, todo desemboca contra el distribuidor. Como es posible que no puedan ofrecer mejores alternativas? Que les pasa? Yo no tengo por que financiar mi propio sufrimiento!
 
@@ -106,8 +106,8 @@ en: &DEFAULT_EN
 
   team:
     title: "EL EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Nuestro increible equipo!
+    text: "The dream team."
+    subtext: !
     section: team
     people:
       - name: "Chapeta"
@@ -143,7 +143,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Hello or call 123456789"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
