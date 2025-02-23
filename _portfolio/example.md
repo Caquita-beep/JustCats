@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Hello sir
+  subtitle: Looking
   thumbnail: assets/img/portfolio/book.webp
   
 #what displays when the item is clicked:
@@ -11,12 +11,8 @@ image: assets/img/portfolio/book.webp
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
 
-optional info list (delete if not using):
+Looking
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
 
