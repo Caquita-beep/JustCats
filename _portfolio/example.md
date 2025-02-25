@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Separador para libros
-  subtitle: 
+  subtitle: USD$ 1 + IVA
   thumbnail: assets/img/portfolio/book.webp
   
 #what displays when the item is clicked:
