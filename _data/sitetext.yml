@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Products"
+    title: "Productos"
     text: ""
     section: portfolio
     closebutton: "Close Project"
