@@ -111,7 +111,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Chapeta"
-        role: "Lead Designer"
+        role: "Gerente"
         image: assets/img/team/chapeta.jpg
         social:
           - url: https://twitter.com
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Pizza"
-        role: "Lead Marketer"
+        role: "Marketing"
         image: assets/img/team/pizza.png
         social:
           - url: https://twitter.com
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Chibi Chibi"
-        role: "Lead Developer"
+        role: "Control de Calidad"
         image: assets/img/team/Chibi.png
         social:
           - url: https://twitter.com
