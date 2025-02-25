@@ -1,7 +1,7 @@
 ---
 title: Patitas
 subtitle: de gato
-image: /assets/img/portfolio/paw.webp
+image: /assets/img/portfolio/paws.webp
 alt: Keep Exploring
 
 caption:
