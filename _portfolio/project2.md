@@ -1,15 +1,15 @@
 ---
-title: Hello sir
-subtitle: Nichts
-image:
+title: Patitas
+subtitle: de gato
+image: /assets/img/portfolio/paw.webp
 alt: Keep Exploring
 
 caption:
-  title: Hello sir
+  title: Patitas
   subtitle:
-  thumbnail:
+  thumbnail: /assets/img/portfolio/pgato.webp
 ---
 
-I have no idea sir.
+Patitas
 
 {:.list-inline}
