@@ -1,6 +1,6 @@
 ---
 title: La Arena
-subtitle: La solucion.
+subtitle: USD$ 5.5 + IVA, 5 kilos.
 image: assets/img/portfolio/funda.jpg
 alt:
 
@@ -9,7 +9,7 @@ caption:
   subtitle: Arenas
   thumbnail: assets/img/portfolio/funda.jpg
 ---
-5.50 + IVA, funda de 5 kilos.
+Funda de 5 kilos.
 Bolas de 1-4mm de bentonita. 
 Minimo polvo, rapido aglutinamento, y control superior de odores.
 Sin fragancia.
