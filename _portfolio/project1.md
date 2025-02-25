@@ -1,16 +1,19 @@
 ---
-title: Project Arena
-subtitle: Your Awesome Cat Litter.
-image: assets/img/portfolio/funda.jpg
-alt: Bag of Cat Litter
+title: La Arena
+subtitle: La solucion.
+image: assets/img/portfolio/head.png
+alt:
 
 caption:
   title: Arena Sanitaria
   subtitle: Arenas
   thumbnail: assets/img/portfolio/head.png
 ---
-
-Bolas de 1-4mm de bentonita. Sin olor, minimo polvo, rapido aglutinamento, y control superior de odores.
+Funda de 5 kilos.
+Bolas de 1-4mm de bentonita. 
+Minimo polvo, rapido aglutinamento, y control superior de odores.
+Sin fragancia.
+Hay con fragancias de frutilla, cafe, rosas tambien.
 
 {:.list-inline}
 
