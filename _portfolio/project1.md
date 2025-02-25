@@ -12,8 +12,7 @@ caption:
 
 Bolas de 1-4mm de bentonita. 
 Minimo polvo, rapido aglutinamento, y control superior de odores.
-Sin fragancia.
-Hay con fragancias de frutilla, cafe, rosas tambien.
+Hay sin fragancia y con fragancias de frutilla, cafe, rosas.
 
 {:.list-inline}
 
