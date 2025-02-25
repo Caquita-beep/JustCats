@@ -1,13 +1,13 @@
 ---
 title: La Arena
 subtitle: La solucion.
-image: assets/img/portfolio/head.png
+image: assets/img/portfolio/funda.jpg
 alt:
 
 caption:
   title: Arena Sanitaria
   subtitle: Arenas
-  thumbnail: assets/img/portfolio/head.png
+  thumbnail: assets/img/portfolio/funda.jpg
 ---
 Funda de 5 kilos.
 Bolas de 1-4mm de bentonita. 
