@@ -71,7 +71,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "La <br> nueva <br> Arena!"
+    end: "<br>Just Cats<br>!"
 
   about:
     title: "About Us"
