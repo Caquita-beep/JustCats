@@ -9,7 +9,7 @@ caption:
   subtitle: Arenas
   thumbnail: assets/img/portfolio/funda.jpg
 ---
-Funda de 5 kilos.
+5.50 + IVA, funda de 5 kilos.
 Bolas de 1-4mm de bentonita. 
 Minimo polvo, rapido aglutinamento, y control superior de odores.
 Sin fragancia.
