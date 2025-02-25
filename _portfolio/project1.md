@@ -1,15 +1,15 @@
 ---
 title: La Arena
-subtitle: USD$ 5.5 + IVA, 5 kilos.
+subtitle: funda de 5 kilos
 image: assets/img/portfolio/funda.jpg
 alt:
 
 caption:
   title: Arena Sanitaria
-  subtitle: Arenas
+  subtitle: USD$ 5.5 + IVA, 5 kilos.
   thumbnail: assets/img/portfolio/funda.jpg
 ---
-Funda de 5 kilos.
+
 Bolas de 1-4mm de bentonita. 
 Minimo polvo, rapido aglutinamento, y control superior de odores.
 Sin fragancia.
