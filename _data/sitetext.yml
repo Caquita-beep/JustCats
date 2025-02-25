@@ -57,17 +57,17 @@ en: &DEFAULT_EN
       - title: "Pizza y Simba"
         year: "Mayo 2020"
         desc: "Por alguna razon hemos querido tener dos mas adicionales y entonces fuimos a un refugio que hay en el centro civico. Ahi encontramos a Pizza y Simba. Ambos esqueletos, garrapatas y parasitos, sin embargo no tan destruidos como Yuca. Con estos dos, hemos decidido que son suficiente gatos los que tenemos"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/pz.jpeg
         alt: image alt text
       - title: "Chapi y Chibi Chibi"
         year: "Septiembre 2020"
         desc: "A los pocos meses despues, conversando con una vendedora de plasticos, me cuenta que esta buscando hogar para dos gatitos de 2 meses. Me manda fotos y decidimos recibir uno. Sin embargo, al dia siguiente fuimos a recibir al otro. Y esta vez no juramos que no ibamos a recibir mas gatos."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/ck.jpeg
         alt:
       - title: "Kuki y Taco"
         year: "Marzo 2021"
         desc: "Pero algo paso un dia q estuve en Duran visitando un taller de metalmecanica. Al salir, veo que alguien habia dejado una funda de rafia a la entrada del taller, justo en el medio. La he recogido y adentro habian dos gatitos de aproximadamente de 1 mes. Yo estaba solo con el dueno del taller, la calle vacia, y no sabia que hacer. He decidido llevarmelos a la casa."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/kt.jpeg
         alt:
         # you can enforce the alignment
         align: right
