@@ -1,15 +1,13 @@
 ---
 title: Patitas
-subtitle: de gato
+subtitle:
 image: assets/img/portfolio/pgato.webp
 alt: Keep Exploring
 
 caption:
   title: Patitas
-  subtitle:
+  subtitle: USD$2 + IVA
   thumbnail: assets/img/portfolio/paws.webp
 ---
-
-Patitas
 
 {:.list-inline}
