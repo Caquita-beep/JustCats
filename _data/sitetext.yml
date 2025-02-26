@@ -147,7 +147,7 @@ en: &DEFAULT_EN
     section: contact
     name: "Name*"
     name-validation: "Por favor ingrese su nombre."
-    email: "jgra86@hotmail.com"
+    email: "Email*"
     email-validation: "Por favor ingrese su correo."
     phone: "Phone Number"
     phone-validation: "Por favor ingrese su numero de telefono"
