@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Productos"
     text: ""
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Cerrar"
 
   timeline:
     title: "Linea de Tiempo"
