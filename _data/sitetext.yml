@@ -142,19 +142,19 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Hello or call 123456789"
+    title: "Contactenos"
+    text: "Hello o llamar 123456789"
     section: contact
     name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
+    name-validation: "Por favor ingrese su nombre."
+    email: "jgra86@hotmail.com"
+    email-validation: "Por favor ingrese su correo."
     phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    phone-validation: "Por favor ingrese su numero de telefono"
     message: "Message*"
-    message-validation: "Please enter a message."
+    message-validation: "Por favor escriba su mensaje."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Enviar mensaje"
 
   footer:
     legal: "Privacy Policy"
