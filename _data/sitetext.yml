@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Bienvenidos a nuestra tienda!
-    text: Un gusto!
+    text: Just Cats!
     button: Nuestros Productos
     buttonlink: "#portfolio"
 
