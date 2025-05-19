@@ -143,7 +143,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contactenos"
-    text: "Hello o llamar 123456789"
+    text: "Hello o llamar +593993166100"
     section: contact
     name: "Nombre"
     name-validation: "Por favor ingrese su nombre."
@@ -167,7 +167,7 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://github.com/
         icon: "fab fa-github"
-      - url: https://www.instagram.com/just_cats_ecuador/
+      - url: https://www.instagram.com/just_cats_ecuador
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
