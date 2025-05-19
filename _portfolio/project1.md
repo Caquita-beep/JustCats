@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Arena Sanitaria
-  subtitle: USD$ 5.5 + IVA, 5 kilos.
+  subtitle: USD$ 6 + IVA, 5 kilos.
   thumbnail: assets/img/portfolio/funda.jpg
 ---
 
